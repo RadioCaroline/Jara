@@ -1,0 +1,5 @@
+{
+    "ConnectionStrings": {
+        "PgsqlDb": "Server=storage;Port=5051;uid=postgres;pwd=Qwerty123;database=measuringtoolscontroldb"
+    }
+}
